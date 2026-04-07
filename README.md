@@ -49,6 +49,3 @@ pylint shop.py students.py
 **pylint** — для комплексного анализа качества кода перед коммитом или в CI/CD.
 
 ---
-
-*Выполнено: 2026-04-07*  
-*GitHub: https://github.com/jarkoebali206/fuck*
